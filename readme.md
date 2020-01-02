@@ -26,13 +26,13 @@ _Disclaimer: All personal information like addresses and mobile numbers are pixe
 ## Features
 
   1. List of jobs and job details display
-  <p align="center">
+  <p align="left">
   <img width="250" src="./images/jobs_list_pxl.png"  />
   </p>  
-  <p align="center">
+  <p align="left">
   <img width="250" src="./images/jobs_details_pxl.png"  />
   </p>
-  
+
   2. Jobs list refresh
 
   3. One-touch call
@@ -40,10 +40,10 @@ _Disclaimer: All personal information like addresses and mobile numbers are pixe
   4. One-touch navigation to pickup/delivery destination
 
   5. Job done notification to users
-  <p align="center">
+  <p align="left">
   <img width="250" src="./images/job_confirmation.png"  />
   </p>
   6. Report sick for delivery personnel
-  <p align="center">
+  <p align="left">
   <img width="250" src="./images/jobs_sick_leave.png"  />
   </p>

@@ -1,13 +1,13 @@
 # Courier Service Management Android App
 
 <p align="center">
-<img width="500" src="./images/jobs_list_pxl.png"  />
+<img width="250" src="./images/jobs_list_pxl.png"  />
 </p>
 
 #### Contents
-- [Abstract](https://github.com/thisisclement/Courier-Service-Management-CMS#abstract)
-- [Technical details](https://github.com/thisisclement/Courier-Service-Management-CMS#problem-statement)
-- [Features](https://github.com/thisisclement/Courier-Service-Management-CMS#features)
+- [Abstract](https://github.com/thisisclement/Courier-Service-Management-Android#abstract)
+- [Technical details](https://github.com/thisisclement/Courier-Service-Management-Android#technical-details)
+- [Features](https://github.com/thisisclement/Courier-Service-Management-Android#features)
 
 
 ## Abstract
@@ -27,18 +27,19 @@ IDE used: Eclipse
 
   1. List of jobs and job details display
   <p align="center">
-  <img width="500" src="./images/jobs_list_pxl.png"  />
+  <img width="250" src="./images/jobs_list_pxl.png"  />
   </p>  
   <p align="center">
-  <img width="500" src="./images/jobs_details_pxl.png"  />
+  <img width="250" src="./images/jobs_details_pxl.png"  />
+  </p>
   2. Jobs list refresh
   3. One-touch call
   4. One-touch navigation to pickup/delivery destination
   5. Job done notification to users
   <p align="center">
-  <img width="500" src="./images/job_confirmation.png"  />
+  <img width="250" src="./images/job_confirmation.png"  />
   </p>
   6. Report sick for delivery personnel
   <p align="center">
-  <img width="500" src="./images/jobs_sick_leave.png"  />
+  <img width="250" src="./images/jobs_sick_leave.png"  />
   </p>

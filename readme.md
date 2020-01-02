@@ -33,5 +33,5 @@ _Disclaimer: All personal information like addresses and mobile numbers are pixe
   6. Report sick for delivery personnel
 
   <p align="left">
-  <img width="250" src="./images/jobs_consolidated.png"  />
+  <img width="600" src="./images/jobs_consolidated.png"  />
   </p>

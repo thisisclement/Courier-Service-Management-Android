@@ -20,8 +20,8 @@ _Disclaimer: All personal information like addresses and mobile numbers are pixe
 
 ## Technical details
 
-OS: Android KitKat v4.4
-IDE used: Eclipse
+- OS: Android KitKat v4.4
+- IDE used: Eclipse
 
 ## Features
 
@@ -33,8 +33,11 @@ IDE used: Eclipse
   <img width="250" src="./images/jobs_details_pxl.png"  />
   </p>
   2. Jobs list refresh
+
   3. One-touch call
+
   4. One-touch navigation to pickup/delivery destination
+
   5. Job done notification to users
   <p align="center">
   <img width="250" src="./images/job_confirmation.png"  />

@@ -12,9 +12,13 @@
 
 ## Abstract
 
-This is an extended project to the Courier Service Management System on my [GitHub](https://github.com/thisisclement/Courier-Service-Management-CMS).
+This is an extended project to the Courier Service Management System on my GitHub.
 
 The Courier Service Management Android App aims to streamline the delivery process and notify users on the delivery or pickup of their parcel.
+
+This is the second of a two part project:
+1. Web application (you can view the other part [here](https://github.com/thisisclement/Courier-Service-Management-CMS))
+2. Mobile application
 
 _Disclaimer: All personal information like addresses and mobile numbers are pixelised for privacy reasons. Names are fictitious and any reference to a real-life person is purely coincidental._
 

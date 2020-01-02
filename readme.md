@@ -30,7 +30,7 @@ _Disclaimer: All personal information like addresses and mobile numbers are pixe
   3. One-touch call
   4. One-touch navigation to pickup/delivery destination
   5. Job done notification to users
-  6. Report sick for delivery personnel
+  6. Courier sick leave application
 
   <p align="left">
   <img width="750" src="./images/jobs_consolidated.png"  />

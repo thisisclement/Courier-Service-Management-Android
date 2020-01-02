@@ -32,6 +32,7 @@ _Disclaimer: All personal information like addresses and mobile numbers are pixe
   <p align="center">
   <img width="250" src="./images/jobs_details_pxl.png"  />
   </p>
+  
   2. Jobs list refresh
 
   3. One-touch call
